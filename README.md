@@ -1,4 +1,6 @@
 # D-rift-Program-Manager
+I'd like to state that this is mostly unofficial, I've been talking with one of the owners about it but its not at all official yet
+
 something I'm working on for Driftless programs as an installer or a custom way to give feedback.
 
 I want to state that all programs, or mods that are added are not owned by me.
